@@ -10,13 +10,13 @@ redirect_from:
 About me
 ======
 <div style="text-align: justify;">
-Hi, welcome to my site! I am <strong>Zhou Zhongchao</strong> (周忠潮, シユウ チュウチョウ), an upcoming Project Researcher at <a href="https://weblab.t.u-tokyo.ac.jp/">the Matsuo-Iwazawa Lab</a> at the University of Tokyo, starting my role in April 2025. My academic journey has been shaped by a PhD degree from Chiba University, where I was supervised by <a href="https://www.tms.chiba-u.jp/~yu/member_prof.html">Prof Wenwei Yu</a>, and an enriching academic visit at Healthcare Biorobotics Lab (HBL) at the University of Oxford, supervised by <a href="https://eng.ox.ac.uk/people/liang-he/">Prof Liang He</a>. </div>
+Hi, welcome to my site! I am <strong>Zhou Zhongchao</strong> (周忠潮, シユウ チュウチョウ), an upcoming Project Researcher at <a href="https://weblab.t.u-tokyo.ac.jp/">the Matsuo-Iwazawa Lab</a> at the University of Tokyo, starting my role in April 2025. My academic journey has been shaped by a PhD degree from Chiba University, where I was supervised by <a href="https://www.tms.chiba-u.jp/~yu/member_prof.html">Prof Wenwei Yu</a>, and an enriching academic visit at Healthcare Biorobotics Lab (HBL) at the University of Oxford, supervised by <a href="https://eng.ox.ac.uk/people/liang-he/">Prof Liang He</a>. </div>  
 
-<span style="font-size:20px; color:purple;">Research interset</span>
+<span style="font-size:20px; color:purple;">🔬Research interset</span>
 ======
 My research interests lie in the intersection of robotics and AI, including soft pneumatic robotics, modelling, control theory, machine learning applications in robot's control systems.I am very interested in collaborations and various research opportunities. Feel free to contact me by <strong>zhouzhongchao@outlook.com</strong> 
 
-<span style="font-size:20px; color:green;">Work experience</span>
+<span style="font-size:20px; color:green;">🏛️Work experience</span>
 ======
 * 2025.04 ~: Project researcher
   * University of Tokyo
@@ -30,13 +30,13 @@ My research interests lie in the intersection of robotics and AI, including soft
   * Chiba Unviersity
   * Supervisor: Professor Wenwei Yu
 
-<span style="font-size:20px; color:organ;">Education</span>
+<span style="font-size:20px; color:organ;">🎓Education</span>
 ======
 * Ph.D in Medical Engineering, Chiba University, 2024
 * M.S. in Medical Engineering, Chiba University, 2021
 * B.S. in Mechanical Engineering, Qingdao University of Science and Technology, 2018
 
-<span style="font-size:20px; color:blue;">Awards and Recognitions</span>
+<span style="font-size:20px; color:blue;">🏆Awards and Recognitions</span>
 ======
 1. **Third Prize**  
    Nanohana Startup Competition, 2024.10, Chiba University  
@@ -74,8 +74,7 @@ My research interests lie in the intersection of robotics and AI, including soft
 16. **8 other provincial-level competitions award**  
 
 
-
-<span style="font-size:20px; color:brown;">Patent</span>
+<span style="font-size:20px; color:brown;">📜Patent</span>
 ======
 
 1. **Invention patent: CN106968230A**  
@@ -86,7 +85,7 @@ My research interests lie in the intersection of robotics and AI, including soft
 3. **Five additional utility model patents**  
 
 
-Academic Affiliations
+<span style="font-size:20px; color:brown;">🌐Academic Affiliations</span>
 ======
 ![logo](https://zhouzhongchao.github.io/zhouzhongchao/_pages/logo_u.png)
 
