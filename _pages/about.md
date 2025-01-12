@@ -15,7 +15,7 @@ Hi, welcome to my site! I am <strong>Zhou Zhongchao</strong> (周忠潮, シユ�
 My research interests lie in the intersection of robotics and AI, including soft pneumatic robotics, modelling, control theory, machine learning applications in robot's control systems.  
 I am very interested in collaborations and various research opportunities. Feel free to contact me by <strong>zhouzhongchao@outlook.com</strong> 
 
-Work experience
+<span style="font-size:20px; color🟢;">Work experience</span>
 ======
 * 2025.04 ~: Project researcher
   * University of Tokyo
