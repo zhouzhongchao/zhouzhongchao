@@ -1,14 +1,14 @@
 ---
-title: "Paper Title Number 3"
-collection: publications
+title: "The role of pre-tensioned springs in 3 pneumatic artificial muscles driven joint mechanisms with sliding mode controllers"
+collection: Robotics and Autonomous Systems
 category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
+excerpt: 'Keywords: Pneumatic artificial muscles (PAMs), Mechanical Design, dynamics modeling'
+date: 2022/5/1
+venue: 'Robotics and Autonomous Systems'
 slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+citation: 'Zhou, Zhongchao, Yuanyuan Wang, and Wenwei Yu. "The role of pre-tensioned springs in 3 pneumatic artificial muscles driven joint mechanisms with sliding mode controllers." Robotics and Autonomous Systems 151 (2022): 104017.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+During the past decade, soft robotics has become a growing new field, and researchers have developed different kinds of soft robots with different actuation technologies and mechanisms. Pneumatic artificial muscles (PAMs), as one kind of the most popular soft actuators, have been widely applied to robotic systems that assist persons. However, PAMs are highly nonlinear, which makes it difficult to achieve accurate force and motion control. Another major problem is their slow response. Efforts have been made to improve the accuracy and responses of PAMs. Adding pre-tensioned springs is one efficient way to improve responses of mechatronic systems. However, the role of pre-tensioned springs in different PAMs-driven mechanical structures has not been sufficiently investigated. In this study, two joint structures combining pre-tensioned springs and PAMs were modeled and their sliding mode controllers (SMC) were designed. The control results were compared with canonical antagonistic PAMs structure in simulation experiments. Moreover, a one-joint prototype actuated by 3 PAMs connected in series with two series-connected springs, was built and used to validate the simulated model. The results with both simulation models and the prototype mechanism showed that, one of joint structure with pre-tensioned springs could achieve better step response and control accuracy than the canonical antagonistic PAMs structure.
