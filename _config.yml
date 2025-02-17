@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "Zhongchao Zhou's home"
 title_separator          : "-"
 name                     : &name "Zhongchao Zhou"
 description              : &description "personal description"
