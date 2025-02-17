@@ -15,7 +15,8 @@ Hi, welcome to my site! I am <strong>Zhou Zhongchao</strong> (周忠潮, シユ�
 
 <span style="font-size:20px; color:purple;">🔬Research interset</span>
 ======
-My research interests lie in the intersection of robotics and AI, including soft pneumatic robotics, modelling, control theory, machine learning applications in robot's control systems.I am very interested in collaborations and various research opportunities. Feel free to contact me by <strong>zhouzhongchao@outlook.com</strong> 📧
+<div style="text-align: justify;">
+My research interests lie in the intersection of robotics and AI, including soft pneumatic robotics, modelling, control theory, machine learning applications in robot's control systems.I am very interested in collaborations and various research opportunities.  Feel free to contact me by </div>  <strong>zhouzhongchao@outlook.com</strong> 📧 
 
 
 
