@@ -10,7 +10,7 @@ redirect_from:
 About me
 ======
 <div style="text-align: justify;">
-Hi, welcome to my site! I am <strong>Zhou Zhongchao</strong> (周忠潮, シユウ チュウチョウ), an upcoming Project Researcher at <a href="https://weblab.t.u-tokyo.ac.jp/">the Matsuo-Iwazawa Lab</a> at the University of Tokyo, starting my role in April 2025. My academic journey has been shaped by a PhD degree from Chiba University, where I was supervised by <a href="https://www.tms.chiba-u.jp/~yu/member_prof.html">Prof Wenwei Yu</a>, and an enriching academic visit at Healthcare Biorobotics Lab (HBL) at the University of Oxford, supervised by <a href="https://eng.ox.ac.uk/people/liang-he/">Prof Liang He</a>. </div>  
+Hi, welcome to my site! I am <strong>Zhou Zhongchao</strong> (周忠潮, シユウ チュウチョウ), a project researcher at <a href="https://weblab.t.u-tokyo.ac.jp/">the Matsuo-Iwazawa Lab</a> at the University of Tokyo, starting my role in April 2025. My academic journey has been shaped by a PhD degree from Chiba University, where I was supervised by <a href="https://www.tms.chiba-u.jp/~yu/member_prof.html">Prof Wenwei Yu</a>, and an enriching academic visit at Healthcare Biorobotics Lab (HBL) at the University of Oxford, supervised by <a href="https://eng.ox.ac.uk/people/liang-he/">Prof Liang He</a>. </div>  
 
 
 <span style="font-size:20px; color:purple;">🔬Research interset</span>
